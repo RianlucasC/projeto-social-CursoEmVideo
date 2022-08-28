@@ -39,3 +39,10 @@ iframe#tela {
     width: 269px;
     height: 471px;
 }
+
+section#redesSociais img {
+    width: 50px;
+    margin: 10px;
+    border-radius: 20%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
+}
